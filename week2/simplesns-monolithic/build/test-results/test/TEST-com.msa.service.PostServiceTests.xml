@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.msa.service.PostServiceTests" tests="1" skipped="0" failures="0" errors="0" timestamp="2023-09-16T08:56:12" hostname="LAPTOP-63AJ3FD4" time="1.065">
+  <properties/>
+  <testcase name="전체 post 조회 - 내림차순" classname="com.msa.service.PostServiceTests" time="1.065"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
